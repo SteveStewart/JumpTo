@@ -1,5 +1,5 @@
 # JumpTo
-Chrome extension refreshes the Redgate graph at set intervals
+Chrome extension refreshes the Redgate graph at set intervals - feel free to use, it's a rough and ready bit of code to do a simple job.
 
 To add to Chrome.
 
