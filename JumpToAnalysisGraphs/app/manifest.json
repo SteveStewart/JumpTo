@@ -13,9 +13,6 @@
         "default_icon": "img/power-off-19x19.png",
         "default_popup": "popup.html"
     },
-    //"background": {
-    //    "scripts": [ "background.js" ]
-    //},
     "content_scripts": [
         {
             "matches": [ "<all_urls>" ],
