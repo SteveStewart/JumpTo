@@ -11,3 +11,5 @@ To add to Chrome.
 You should see an off icon appear next to the url address bar.
 
 Make sure you uncheck developer mode if you don't require this.
+
+If you want more information about this extension then checkout my blog. http://woohooltd.uk/blog/post/creating-a-google-chrome-extension-to-refresh-redgate-sql-monitor-graphs
