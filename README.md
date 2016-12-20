@@ -14,7 +14,7 @@ Make sure you uncheck developer mode if you don't require this.
 
 If you want more information about this extension then checkout my blog.
 
-http://woohooltd.uk/blog/post/creating-a-google-chrome-extension-to-refresh-redgate-sql-monitor-graphs
+http://blog.woohooltd.uk/post/creating-a-google-chrome-extension-to-refresh-redgate-sql-monitor-graphs
 
 The VS template I used to get started can be downloaded from here (also linked to in the blog above).
 
